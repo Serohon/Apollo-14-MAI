@@ -10,5 +10,5 @@ plt.title('Зависимость скорости от времени до ор
 plt.xlabel('Время, с')
 plt.ylabel('Скорость, м/c')
 
-ax.plot(x, y, color='grey', linestyle='-', marker='o')
+ax.plot(x, y, color='blue', linestyle='-', marker='o')
 plt.show()
