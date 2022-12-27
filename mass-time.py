@@ -10,5 +10,5 @@ plt.title('Изменение массы ракеты')
 plt.xlabel('Время, с')
 plt.ylabel('Масса, тонны')
 
-ax.plot(x, y, color='green', linestyle='-', marker='o')
+ax.plot(x, y, color='red', linestyle='-', marker='o')
 plt.show()
